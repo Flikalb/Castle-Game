@@ -1,3 +1,6 @@
+Castle Game
+===========
+
 This project has been developed during the first 
 semester of my two year technical degree in Computer Science.
 
